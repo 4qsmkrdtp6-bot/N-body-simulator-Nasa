@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub stars](https://img.shields.io/github/stars/4qsmkrdtp6-bot/N-body-simulator.svg?style=social)](https://github.com/4qsmkrdtp6-bot/N-body-simulator)
 # N-Body Orbital Simulator
 
 **Symplectic Integration Methods for Computational Astrophysics**
